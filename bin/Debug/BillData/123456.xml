@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Bill>
+  <TbxForNo>外运编号：</TbxForNo>
+  <TbxTrafficNo>西政权</TbxTrafficNo>
+  <LbxListProject00>手续费</LbxListProject00>
+  <LbxListProject01>432.5676</LbxListProject01>
+  <LbxListProject02>365</LbxListProject02>
+  <LbxListProject03>RMB: 157887.2</LbxListProject03>
+  <LbxListProject10>sdf</LbxListProject10>
+  <LbxListProject11>432.5676</LbxListProject11>
+  <LbxListProject12>365</LbxListProject12>
+  <LbxListProject13>RMB: 157887.2</LbxListProject13>
+  <CbxDescriptions>
+  </CbxDescriptions>
+  <TbxTotalInCapita>人民币  叁拾壹万伍仟柒佰柒拾肆圆叁角肆分</TbxTotalInCapita>
+  <TbxLumpSum>RMB: 315774.34</TbxLumpSum>
+  <TbxBulk>231</TbxBulk>
+  <TbxL>体积</TbxL>
+  <TbxQ>重量</TbxQ>
+  <TbxWeight>3435</TbxWeight>
+  <TbxB>箱量</TbxB>
+  <TbxBoxNumber>34</TbxBoxNumber>
+  <TbxDateIssued>2016-5-23</TbxDateIssued>
+  <CbxIssuedBy>5463</CbxIssuedBy>
+  <CbxRegisterNo>42542</CbxRegisterNo>
+  <TbxCheckedBy>6543</TbxCheckedBy>
+  <CbxBusinessRegisterNo>456436</CbxBusinessRegisterNo>
+  <TbxDestination>要用手机</TbxDestination>
+  <TbxDisPort>大规模</TbxDisPort>
+  <TbxID>123456</TbxID>
+  <TbxBankName>
+  </TbxBankName>
+  <TbxAccount>
+  </TbxAccount>
+  <TbxDateSailed>2016-5-23</TbxDateSailed>
+  <CbxPayer>南京程序员协会</CbxPayer>
+  <TbxBLNo>ewrwqf</TbxBLNo>
+  <TbxVessel>fdsaf</TbxVessel>
+  <TbxLoadPort>互联</TbxLoadPort>
+</Bill>

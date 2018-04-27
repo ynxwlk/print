@@ -1,0 +1,9 @@
+SCC = This is a Source Code Control file
+
+[Notepad.sln]
+SCC_Aux_Path = "D:\SourceSafe"
+SCC_Project_Name = "$/DotNetBar/Samples/Notepad/VB", URBAAAAA
+
+[Notepad.vbproj]
+SCC_Aux_Path = "D:\SourceSafe"
+SCC_Project_Name = "$/DotNetBar/Samples/Notepad/VB", URBAAAAA

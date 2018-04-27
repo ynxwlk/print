@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Bill>
+  <TbxForNo>外运编号：</TbxForNo>
+  <TbxTrafficNo>dgfsd</TbxTrafficNo>
+  <LbxListProject00>手续费</LbxListProject00>
+  <LbxListProject01>3</LbxListProject01>
+  <LbxListProject02>343</LbxListProject02>
+  <LbxListProject03>RMB: 1029</LbxListProject03>
+  <LbxListProject10>sdf</LbxListProject10>
+  <LbxListProject11>3</LbxListProject11>
+  <LbxListProject12>34342</LbxListProject12>
+  <LbxListProject13>RMB: 103026</LbxListProject13>
+  <CbxDescriptions>
+  </CbxDescriptions>
+  <TbxTotalInCapita>人民币  壹拾万肆仟伍拾伍圆整</TbxTotalInCapita>
+  <TbxLumpSum>RMB: 104055</TbxLumpSum>
+  <TbxBulk>43</TbxBulk>
+  <TbxL>体积</TbxL>
+  <TbxQ>重量</TbxQ>
+  <TbxWeight>34</TbxWeight>
+  <TbxB>箱量</TbxB>
+  <TbxBoxNumber>3</TbxBoxNumber>
+  <TbxDateIssued>2017-7-20</TbxDateIssued>
+  <CbxIssuedBy>5463</CbxIssuedBy>
+  <CbxRegisterNo>42542</CbxRegisterNo>
+  <TbxCheckedBy>
+  </TbxCheckedBy>
+  <CbxBusinessRegisterNo>456436</CbxBusinessRegisterNo>
+  <TbxDestination>fd</TbxDestination>
+  <TbxDisPort>gb</TbxDisPort>
+  <TbxID>2323</TbxID>
+  <TbxBankName>
+  </TbxBankName>
+  <TbxAccount>
+  </TbxAccount>
+  <TbxDateSailed>2016-7-22</TbxDateSailed>
+  <CbxPayer>南京程序员协会</CbxPayer>
+  <TbxBLNo>123412</TbxBLNo>
+  <TbxVessel>324213</TbxVessel>
+  <TbxLoadPort>km</TbxLoadPort>
+</Bill>

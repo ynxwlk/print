@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Bill>
+  <TbxForNo>外运编号：</TbxForNo>
+  <TbxTrafficNo>
+  </TbxTrafficNo>
+  <LbxListProject00>sdf</LbxListProject00>
+  <LbxListProject01>4</LbxListProject01>
+  <LbxListProject02>232</LbxListProject02>
+  <LbxListProject03>RMB: 928</LbxListProject03>
+  <CbxDescriptions>
+  </CbxDescriptions>
+  <TbxTotalInCapita>人民币  玖佰贰拾捌圆整</TbxTotalInCapita>
+  <TbxLumpSum>RMB: 928</TbxLumpSum>
+  <TbxBulk>
+  </TbxBulk>
+  <TbxL>体积</TbxL>
+  <TbxQ>重量</TbxQ>
+  <TbxWeight>
+  </TbxWeight>
+  <TbxB>箱量</TbxB>
+  <TbxBoxNumber>
+  </TbxBoxNumber>
+  <TbxDateIssued>
+  </TbxDateIssued>
+  <CbxIssuedBy>
+  </CbxIssuedBy>
+  <CbxRegisterNo>
+  </CbxRegisterNo>
+  <TbxCheckedBy>
+  </TbxCheckedBy>
+  <CbxBusinessRegisterNo>
+  </CbxBusinessRegisterNo>
+  <TbxDestination>
+  </TbxDestination>
+  <TbxDisPort>
+  </TbxDisPort>
+  <TbxID>4</TbxID>
+  <TbxBankName>
+  </TbxBankName>
+  <TbxAccount>
+  </TbxAccount>
+  <TbxDateSailed>
+  </TbxDateSailed>
+  <CbxPayer>
+  </CbxPayer>
+  <TbxBLNo>
+  </TbxBLNo>
+  <TbxVessel>
+  </TbxVessel>
+  <TbxLoadPort>
+  </TbxLoadPort>
+</Bill>

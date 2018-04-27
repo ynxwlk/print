@@ -1,0 +1,7 @@
+F:\lkscsharp\Print\obj\Debug\Notepad.BalloonSearch.resources
+F:\lkscsharp\Print\obj\Debug\Notepad.frmAbout.resources
+F:\lkscsharp\Print\obj\Debug\Notepad.frmDocument.resources
+F:\lkscsharp\Print\obj\Debug\Notepad.frmMain.resources
+F:\lkscsharp\Print\obj\Debug\Print.csproj.GenerateResource.Cache
+F:\lkscsharp\Print\obj\Debug\Print.exe.licenses
+F:\lkscsharp\Print\obj\Debug\Print.csprojResolveAssemblyReference.cache

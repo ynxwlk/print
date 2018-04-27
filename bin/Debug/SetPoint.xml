@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Setup> 
+  <Font>宋体</Font>
+  <Size>10</Size>
+  <TheX>2</TheX>
+  <TheY>2.4</TheY>
+  <MarginsLeft></MarginsLeft>
+  <MarginsTop></MarginsTop>
+  <MarginsRight></MarginsRight>
+  <MarginsBottom></MarginsBottom>
+  <PageWidth></PageWidth>
+  <PageHeight></PageHeight>
+  <PageName>abc</PageName>
+  <LbxListProject x="0.8" y="3.8" row0="0" row1="3.4" row2="5.4" row3="13.5" cow0="0" cow1="0.6" cow2="1.2" cow3="1.8" cow4="2.4" cow5="3" cow6="3.6"></LbxListProject>
+  <TbxForNo x="-0.7" y="3"></TbxForNo>
+  <TbxB x="18" y="3.1"></TbxB>
+  <TbxBoxNumber x="18" y="3.6">
+  </TbxBoxNumber>
+  <CbxDescriptions x="0" y="0">
+  </CbxDescriptions>
+  <TbxBulk x="18" y="5.2">
+  </TbxBulk>
+  <TbxL x="18" y="4.7"></TbxL>
+  <TbxQ x="18" y="6"></TbxQ>
+  <TbxWeight x="18" y="6.5">
+  </TbxWeight>
+  <TbxTotalInCapita x="2.8" y="7.7">
+  </TbxTotalInCapita>
+  <TbxLumpSum x="14.6" y="7.5">
+  </TbxLumpSum>
+  <TbxDateIssued x="9.7" y="0">
+  </TbxDateIssued>
+  <CbxIssuedBy x="17" y="8.5">
+  </CbxIssuedBy>
+  <CbxRegisterNo x="6.3" y="9.2">
+  </CbxRegisterNo>
+  <TbxCheckedBy x="12.8" y="8.5">
+  </TbxCheckedBy>
+  <TbxTrafficNo x="1" y="3">
+  </TbxTrafficNo>
+  <CbxBusinessRegisterNo x="6.3" y="8.5">
+  </CbxBusinessRegisterNo>
+  <TbxDestination x="17" y="1.6">
+  </TbxDestination>
+  <TbxDisPort x="9.3" y="1.6">
+  </TbxDisPort>
+  <TbxID x="0" y="0">SetPoint</TbxID>
+  <TbxBankName x="0" y="0">
+  </TbxBankName>
+  <TbxAccount x="0" y="0">
+  </TbxAccount>
+  <TbxDateSailed x="17.6" y="0.8">
+  </TbxDateSailed>
+  <CbxPayer x="0" y="0">
+  </CbxPayer>
+  <TbxBLNo x="11.7" y="0.8">
+  </TbxBLNo>
+  <TbxVessel x="3.5" y="0.8">
+  </TbxVessel>
+  <TbxLoadPort x="0.8" y="1.6">
+  </TbxLoadPort>
+</Setup>

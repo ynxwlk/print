@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Setup>
+  <CbxDescriptions>
+    <Item>sdf</Item>
+    <Item>手续费</Item>
+  </CbxDescriptions>
+  <CbxIssuedBy>
+    <Item>5463</Item>
+  </CbxIssuedBy>
+  <CbxRegisterNo>
+    <Item>42542</Item>
+  </CbxRegisterNo>
+  <CbxBusinessRegisterNo>
+    <Item>456436</Item>
+  </CbxBusinessRegisterNo>
+  <CbxPayer>
+    <Item>南京程序员协会</Item>
+  </CbxPayer>
+</Setup>
